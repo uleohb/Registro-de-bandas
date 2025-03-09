@@ -1,0 +1,14 @@
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\bin\Debug\net9.0\CshapPROJ.exe
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\bin\Debug\net9.0\CshapPROJ.deps.json
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\bin\Debug\net9.0\CshapPROJ.runtimeconfig.json
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\bin\Debug\net9.0\CshapPROJ.dll
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\bin\Debug\net9.0\CshapPROJ.pdb
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\obj\Debug\net9.0\CshapPROJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\obj\Debug\net9.0\CshapPROJ.AssemblyInfoInputs.cache
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\obj\Debug\net9.0\CshapPROJ.AssemblyInfo.cs
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\obj\Debug\net9.0\CshapPROJ.csproj.CoreCompileInputs.cache
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\obj\Debug\net9.0\CshapPROJ.dll
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\obj\Debug\net9.0\refint\CshapPROJ.dll
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\obj\Debug\net9.0\CshapPROJ.pdb
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\obj\Debug\net9.0\CshapPROJ.genruntimeconfig.cache
+C:\Users\LeotaOn\source\repos\CshapPROJ\CshapPROJ\obj\Debug\net9.0\ref\CshapPROJ.dll
